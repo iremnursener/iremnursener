@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Irem Nur Sener 
-#### I am a Software Developer from Türkiye
-![Header]("C:\Users\irems\Downloads\github-header-image.png")
+
+
+
+![github-header-image (1)](https://github.com/iremnursener/iremnursener/assets/119794427/6a07a351-e579-4ef3-bd27-4de49ce9aeea)
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/iremnursener?tab=repositories](https://github.com/iremnursener?tab=repositories)
 
@@ -16,9 +19,9 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <div style="flex: 1;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremnursener&show_icons=true&locale=en&layout=compact" alt="iremnursener" /></p>
-  </div>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iremnursener)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnursener)](https://github.com/anuraghazra/github-readme-stats)
 
   <div style="flex: 1;">
     <p><img src="https://github-readme-stats.vercel.app/api?username=iremnursener&show_icons=true&locale=en" alt="iremnursener" /></p>
