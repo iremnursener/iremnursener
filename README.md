@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iremnursener&show_icons=true&locale=en" alt="iremnursener" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremnursener&" alt="iremnursener" /></p>
+
+![snake gif](https://github.com/iremnursener/iremnursener/blob/output/github-contribution-grid-snake.gif)
