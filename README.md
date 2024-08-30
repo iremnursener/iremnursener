@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/iremnursener/iremnursener/assets/119794427/6a07a351-e579-4ef3-bd27-4de49ce9aeea" alt="github-header-image (1)">
+  
   <p>
      <br><br>
     👨‍💻 All of my projects are available at <a href="https://github.com/iremnursener?tab=repositories">https://github.com/iremnursener?tab=repositories</a>
