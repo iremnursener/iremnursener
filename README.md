@@ -5,9 +5,15 @@
   
   <p>
      <br><br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/iremnursener?tab=repositories">https://github.com/iremnursener?tab=repositories</a>
+    👨‍💻 All of my projects are available at <a href="https://github.com/iremnursener?tab=repositories">https://github.com/iremnursener?tab=repositories
+    </a>
     <br>
-    📫 How to reach me: <strong>irem.sener19@gmail.com</strong>
+    <p>
+  📫 How to reach me: <strong>irem.sener19@gmail.com</strong>
+</p>
+<p>
+  ✍️ Check out my blog! : <strong>https://medium.com/@seneriremnur</strong>
+</p>
   </p>
 </div>
 
