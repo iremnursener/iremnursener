@@ -75,6 +75,7 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iremnursener&show_icons=true&theme=dark&locale=en" alt="iremnursener" /></p>
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnursener&theme=dark" alt="iremnursener" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremnursener&" alt="iremnursener" /></p>
 
 
