@@ -14,6 +14,10 @@
 <p>
   ✍️ Check out my blog! : <strong>https://medium.com/@seneriremnur</strong>
 </p>
+
+<p>
+  ✍️ Check out my website! : <strong>https://seneriremnur.my.canva.site</strong>
+</p>
   </p>
 </div>
 
