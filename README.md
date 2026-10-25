@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm İrem 👋</h1>
-<h3 align="center">Backend Software Engineer · Java · Spring Boot · Distributed Systems</h3>
+<h3 align="center">Backend Software Engineer · Java · Spring Boot </h3>
 
 <p align="center">
   Backend-focused Software Engineer working mainly with <b>Java</b> and <b>Spring Boot</b>, building scalable, maintainable and event-driven systems in the fintech &amp; insurance domain.<br>
@@ -14,6 +14,17 @@
 - **Messaging & integration** with Apache Kafka and RabbitMQ, and REST API development
 - **Distributed data consistency & resilience** — saga orchestration, transactional outbox, CDC, circuit breakers
 - Writing clean, scalable, maintainable code — plus end-to-end contributions on React applications
+
+<br>
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Walletra](https://github.com/iremnursener/Walletra--Event-Driven-Fintech-Platform)** | Event-driven fintech microservices — saga orchestration, transactional outbox + Debezium CDC, idempotent payments | Java · Spring Boot · Kafka · PostgreSQL · Redis |
+| **[Cypher Copilot](https://github.com/iremnursener/Cypher-Copilot)** | Natural-language querying over a Neo4j graph via LLM-generated Cypher, with read-only defense-in-depth | Java · Spring AI · Neo4j · React |
+| **[Release Calendar Automation](https://github.com/iremnursener/Release-Calendar-Automation-Backend)** · [UI](https://github.com/iremnursener/Release-Calendar-Automation-Web-UI) | Turns color-coded planning spreadsheets into calendar events with scheduled email reminders | Java · Spring Boot · RabbitMQ · Quartz · MySQL |
+| **[Hotel Booking API](https://github.com/iremnursener/HotelBooking)** | JWT-secured hotel reservation REST API with a clean layered architecture | Java · Spring Boot · Spring Security · MySQL |
 
 <br>
 
