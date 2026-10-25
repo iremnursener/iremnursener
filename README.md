@@ -1,86 +1,70 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunabaskurt&label=Profile%20views&color=0e75b6&style=flat" alt="tunabaskurt" /> </p>
+<h1 align="center">Hi, I'm İrem 👋</h1>
+<h3 align="center">Backend Software Engineer · Java & Spring Boot</h3>
 
-
-<div align="center">
-  
-  <p>
-     <br><br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/iremnursener?tab=repositories">https://github.com/iremnursener?tab=repositories
-    </a>
-    <br>
-    <p>
-  📫 How to reach me: <strong>irem.sener19@gmail.com</strong>
-</p>
-<p>
-  ✍️ Check out my blog! : <strong>https://medium.com/@seneriremnur</strong>
-</p>
-
-<p>
-  ✍️ Check out my website! : <strong>https://seneriremnur.my.canva.site</strong>
-</p>
-  </p>
-</div>
-
- <br><br>
-
- 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/irem%20nur%20şener" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem nur şener" height="30" width="40" />
-  </a>
+  Building reliable backend systems and microservices for fintech & insurance.<br>
+  Final-year Computer Engineering student, focused on clean architecture and scalable APIs.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-  </a>
-</p>
-
- <br><br>
-
- 
-<h3 align="center">Statistics</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremnursener&show_icons=true&theme=dark&locale=en&layout=compact" alt="iremnursener" /></p>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iremnursener&show_icons=true&theme=dark&locale=en" alt="iremnursener" /></p>
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnursener&" alt="iremnursener" /></p>
+### 💼 What I work on
 
+- Backend development with **Java** and **Spring Boot** in microservice architectures
+- Designing and integrating **REST APIs** for financial & insurance systems
+- Relational and graph databases, and bridging them for LLM-based natural language querying (graduation thesis)
 
+<br>
 
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iremnursener&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="İrem's GitHub stats" />
+</p>
+
+<br>
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/irem-nur-sener" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:irem.sener19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@seneriremnur" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://seneriremnur.my.canva.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7262?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
